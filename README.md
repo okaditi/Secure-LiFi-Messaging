@@ -5,9 +5,6 @@ A Python-Arduino based Li-Fi communication system simulating quantum encryption 
 ## Circuit Diagram
 
 <img src="Circuit.png">
-![WhatsApp Image 2025-04-25 at 07 39 13_11f0f360](https://github.com/user-attachments/assets/b4ace472-082d-447e-ba3b-1ba5181f3d3e)
-![WhatsApp Image 2025-04-25 at 07 39 13_52e21d11](https://github.com/user-attachments/assets/5e9cf745-4ce9-4bab-a0d5-c1ea0a15bd10)
-
 
 ## Requirements
 - Python 3.x
